@@ -1,5 +1,7 @@
 # DIRECTIONS FOR USE
 
+* By using anything from this repository you agree that you will not use it for harm and I am not accountable for any harm or trouble you cause.
+
 ## Running the Listener
 
 1. Open Listener.py.
