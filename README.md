@@ -9,7 +9,7 @@
 ## Configuring User Locations
 
 1. Find the `def setup_users` section in the code.
-2. Set the home location using the format "*location*". For example, `"home/user/desktop"`.
+2. Set the home location using the format ""*location*"". For example, `"home/user/desktop"`.
 
 ## Sending Files
 
