@@ -24,3 +24,7 @@ To send a file:
 
 1. Open the solution in Visual Studios and in Backdoor.cs look for the variable `ServerIPv6Address` and set it to the computer's address that is running the listener.
 2. Build the application and it's ready to go.
+
+#
+
+###Run the listener on one computer and run the built exe with its dependences and that's it
