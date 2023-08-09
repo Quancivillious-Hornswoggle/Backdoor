@@ -10,7 +10,7 @@
 
 1. Find the `def setup_users` section in the code.
 2. Set the home location "*whatever location you want*" to the home location you want for the ftp server.
-- EX: authorizer.add_user("backdoor", "backdoor", "/home/user/folder", perm="elradfmw").
+* EX: authorizer.add_user("backdoor", "backdoor", "/home/user/folder", perm="elradfmw").
 
 ## Sending Files
 
