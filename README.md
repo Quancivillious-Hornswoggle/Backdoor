@@ -2,7 +2,7 @@
 
 ## Running the Listener
 
-1. Open the project code.
+1. Open Listener.py.
 2. Locate the occurrences of `ipv6` in the code (there should be around 3 instances).
 3. Replace `ipv6` with the IPv6 address of the computer running the listener.
 
